@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import DashboardLayout from "C:\Users\HP\OneDrive\Desktop\MAIN\expense_tracker_deploy\expense_tracker\frontend\expense-tracker\src\components\Layouts\DashboardLayout.jsx";
+import DashboardLayout from "../../components/Layouts/DashboardLayout";
 
 import { LuHandCoins, LuWalletMinimal } from "react-icons/lu";
 import { IoMdCard } from "react-icons/io";
